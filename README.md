@@ -1,4 +1,9 @@
-<h3 align="center"><img src="https://i.imgur.com/o8QXIco.png" alt="logo" height="100px"></h3>
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e1f521ca-6e20-49e3-b5fa-4d1bef24b556">
+    <img alt="" src="https://i.imgur.com/o8QXIco.png" height="100px">
+  </picture>
+</h3>
 <p align="center">The minimalist window manager.</p>
 
 This project was previously a work of satire, going under a different name, however I have decided to continue the project as it seems functional and ready to be improved upon. [Click here if you're a little curious.](https://github.com/vardy/aphelia#satire)
